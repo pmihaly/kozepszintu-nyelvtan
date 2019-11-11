@@ -1,1 +1,1 @@
-{% for page in site.pages %} [{{ page.title }}](/közepszintu-nyelvtan/{{ page.url }}) {% endfor %}
+{% for page in site.pages %} [{{ page.title }}](/kozepszintu-nyelvtan/{{ page.url }}) {% endfor %}
